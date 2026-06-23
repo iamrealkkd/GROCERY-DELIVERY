@@ -1,6 +1,6 @@
 # 🛒 Instacart - Grocery Delivery App
 
-A full-stack grocery delivery platform built with Next.js, MongoDB, Cloudinary, Inngest, and Stripe.
+A full-stack grocery delivery platform built with PERN Stack.
 
 ## 🚀 Features
 
